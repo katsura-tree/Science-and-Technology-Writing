@@ -4,5 +4,5 @@
 
 | # | 글 | 원본 |
 |---|---|---|
-| 1 | [생성형 AI는 도구에 불과하다](writings/01-ai-copyright/README.md) | [1쪽](writings/01-ai-copyright/original-p1.jpg), [2쪽](writings/01-ai-copyright/original-p2.jpg) |
-| 2 | [과학기술글쓰기를 선택한 이유](writings/02-why-this-course/README.md) | [사진](writings/02-why-this-course/original.jpg) |
+| 1 | [과학기술글쓰기를 선택한 이유](writings/01-why-this-course/README.md) | [사진](writings/01-why-this-course/original.jpg) |
+| 2 | [생성형 AI는 도구에 불과하다](writings/02-ai-copyright/README.md) | [1쪽](writings/02-ai-copyright/original-p1.jpg), [2쪽](writings/02-ai-copyright/original-p2.jpg) |
