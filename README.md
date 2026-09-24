@@ -10,3 +10,11 @@
 ## 문체 가이드
 
 [style-guide.md](style-guide.md): 원본 글에서 뽑은 문체 특징과 첨삭에서 지적받은 점을 정리한 문서입니다. Claude가 이 저장소에서 글을 대신 쓸 때는 [CLAUDE.md](CLAUDE.md)의 지침에 따라 이 문서를 기준으로 삼습니다.
+
+## Claude 초안
+
+문체 가이드를 바탕으로 Claude가 쓴 글입니다. 문체 기준에는 넣지 않습니다.
+
+| # | 글 |
+|---|---|
+| 1 | [가장 분하고 억울했던 순간](drafts/01-most-unfair-moment.md) |
