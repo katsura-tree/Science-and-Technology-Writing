@@ -6,3 +6,7 @@
 |---|---|---|
 | 1 | [과학기술글쓰기를 선택한 이유](writings/01-why-this-course/README.md) | [사진](writings/01-why-this-course/original.jpg) |
 | 2 | [생성형 AI는 도구에 불과하다](writings/02-ai-copyright/README.md) | [1쪽](writings/02-ai-copyright/original-p1.jpg), [2쪽](writings/02-ai-copyright/original-p2.jpg) |
+
+## 문체 가이드
+
+[style-guide.md](style-guide.md): 원본 글에서 뽑은 문체 특징과 첨삭에서 지적받은 점을 정리한 문서입니다. Claude가 이 저장소에서 글을 대신 쓸 때는 [CLAUDE.md](CLAUDE.md)의 지침에 따라 이 문서를 기준으로 삼습니다.
